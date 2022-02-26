@@ -1,0 +1,23 @@
+#countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+section{
+    
+    
+}
+#country-details{
+    /* background: gray;
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 30%;
+    height: 200px; */
+}
+
+.country{
+    border: 2px solid blue;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
